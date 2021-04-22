@@ -1,0 +1,171 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+body{
+    margin-top:20px;
+    margin-bottom:50px;
+}
+
+.surch-box{
+    
+    width:49%;
+}
+.img-fluid{
+    max-width: 6% !important;
+    position: relative;
+    left: -8%;
+}
+.border{
+    border-radius: 25px;
+    width: 94%;
+    height: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+.background{
+    background-color:#FEEAE9;
+}
+.carousel-inner{
+    border-radius:10px;
+    margin-top:20px;
+}
+.carousel-item p{
+    color:#707070;
+}
+.carousel-item .btn{
+    background-image: linear-gradient(to bottom, #DB6C98 , #FF2077);
+    color:#fff;
+    font-weight: bold;
+    margin-top:3%;
+    border:none;
+}
+.padding{
+    padding-left: 12% ;
+}
+.carousel-item span{
+    color:#FF136F;
+    font-weight:bold;
+    font-size: 2em;
+}
+.carousel-item h2{
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.single-catagoris h2{
+    font-weight:bold;
+    color:#fff;
+}
+.single-1{
+    background-image: linear-gradient(to right, #FFA133 , #FFD019);
+    border-radius: 10px;
+}
+.single-2{
+    background-image: linear-gradient(to right, #FF3B89 , #f86aa3);
+    border-radius: 10px;
+}
+.single-3{
+    background-image: linear-gradient(to right, #427DFE , #3F07F8);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.shoes-wrapperr{
+    background-color:#F8F8F8;
+}
+.card{
+    border: 0px;
+    border-radius: 10px;
+}
+.card-body h3{
+    font-weight:bold;
+    font-size: 164%;
+}
+.card-body .tk{
+    font-weight:bold;
+}
+.card-body .btn{
+    font-weight:bold;
+    background-color:#000000;
+    border:0px;
+}
+.card-body .card-text{
+    color:#707070;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.backpack-wrapperr{
+    background-color:#F8F8F8;
+}
+
+
+
+
+
+
+.footer-bg{
+    background-color: #FEEAE9;
+    padding-top:50px;
+    padding-bottom: 100px;
+    margin-top:50px;
+    border-radius: 10px;
+
+}
+input[type="email"]{
+    height: 45px;
+    width: 35%;
+    border:none;
+    border-radius: 10px 0px 0px 10px;
+}
+.email button{
+    border: navajowhite;
+    color: #fff;
+    background-color: #FF297D;
+    padding: 0px 25px 0px 25px;
+    border-radius: 0px 10px 10px 0px;
+    font-weight: bold;
+}
